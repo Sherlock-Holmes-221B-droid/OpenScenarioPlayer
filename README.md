@@ -5,10 +5,8 @@ This software is completely free and is a open scenario player where you can dir
 A Python-based desktop GUI application for launching and managing OpenSCENARIO simulations with the **esmini** simulator.
 
 <h2>Dashboard</h2>
-
-<p align="center">
 Dashboard.png
-</p>
+
 
 ## Features
 
