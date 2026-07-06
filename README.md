@@ -1,6 +1,5 @@
 # OpenScenarioPlayer
 This software is completely free and is a open scenario player where you can directly change the parameter and play the scenario.
-# OpenScenarioPlayer
 
 A Python-based desktop GUI application for launching and managing OpenSCENARIO simulations with the **esmini** simulator.
 
