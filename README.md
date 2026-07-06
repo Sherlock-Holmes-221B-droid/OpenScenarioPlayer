@@ -17,18 +17,10 @@ A Python-based desktop GUI application for launching and managing OpenSCENARIO s
 - XML scenario parsing
 - Data handling with pandas
 - Scenario visualization support using Matplotlib
-- Browser integration for opening related resources
-- Packaged executable splash-screen support (PyInstaller)
+- Change parameters in GUI itself and run different scenarios
 
-## Technologies Used
-
-- Python
-- CustomTkinter
-- Tkinter
-- pandas
-- Matplotlib
-- XML ElementTree
-- esmini OpenSCENARIO simulator
+## Download esmini player from here
+https://github.com/esmini/esmini/releases
 
 ## Prerequisites
 
