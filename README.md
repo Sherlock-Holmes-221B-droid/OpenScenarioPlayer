@@ -7,7 +7,7 @@ A Python-based desktop GUI application for launching and managing OpenSCENARIO s
 <h2>Dashboard</h2>
 
 <p align="center">
-  Dashboard.png
+Dashboard.png
 </p>
 
 ## Features
